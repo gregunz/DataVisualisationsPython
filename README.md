@@ -1,4 +1,4 @@
-# Data Visualisation with Python
+# Data Visualisations with Python
 A compilation matplotlib plots useful in data analysis and visualization.
 This list lets you choose what visualisation to show for what situation using python’s **matplotlib** and **seaborn** library.
 
